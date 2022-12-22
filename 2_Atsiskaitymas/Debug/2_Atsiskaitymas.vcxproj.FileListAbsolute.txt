@@ -1,0 +1,4 @@
+C:\studiju_projektai\sisteminis-programavimas\2_Atsiskaitymas\2_Atsiskaitymas\Debug\2_Atsiskaitymas.vcxproj.AssemblyReference.cache
+C:\studiju_projektai\sisteminis-programavimas\2_Atsiskaitymas\2_Atsiskaitymas\Debug\2_Atsiskaitymas.vcxproj.SuggestedBindingRedirects.cache
+C:\studiju_projektai\sisteminis-programavimas\2_Atsiskaitymas\2_Atsiskaitymas\Debug\_2_Atsiskaitymas.Form1.resources
+C:\studiju_projektai\sisteminis-programavimas\2_Atsiskaitymas\2_Atsiskaitymas\Debug\2_Atsiskaitymas.vcxproj.GenerateResource.cache
